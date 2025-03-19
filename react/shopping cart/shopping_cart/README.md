@@ -1,2 +1,2 @@
 # shopping_cart
-# the odin project
+Made for the Odin Project React Course
